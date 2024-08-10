@@ -1,1 +1,2 @@
-This is the directory to learn the concepts in Data Science and Machine Learning along with their application and code samples
+This is the directory to learn Data Science and Machine Learning along with the application and code samples...
+Enjoy your learning and have fun!!!
